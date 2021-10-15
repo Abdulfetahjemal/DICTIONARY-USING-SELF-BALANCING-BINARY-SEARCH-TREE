@@ -1,0 +1,33 @@
+C:\Users\Me\source\repos\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.deps.json
+C:\Users\Me\source\repos\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.json
+C:\Users\Me\source\repos\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.dev.json
+C:\Users\Me\source\repos\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.dll
+C:\Users\Me\source\repos\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.pdb
+C:\Users\Me\source\repos\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Me\source\repos\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfo.cs
+C:\Users\Me\source\repos\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.dll
+C:\Users\Me\source\repos\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.pdb
+C:\Users\Me\source\repos\Dictionary 2\bin\Debug\netcoreapp2.1\Dictionary.deps.json
+C:\Users\Me\source\repos\Dictionary 2\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.json
+C:\Users\Me\source\repos\Dictionary 2\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.dev.json
+C:\Users\Me\source\repos\Dictionary 2\bin\Debug\netcoreapp2.1\Dictionary.dll
+C:\Users\Me\source\repos\Dictionary 2\bin\Debug\netcoreapp2.1\Dictionary.pdb
+C:\Users\Me\source\repos\Dictionary 2\obj\Debug\netcoreapp2.1\Dictionary.csprojAssemblyReference.cache
+C:\Users\Me\source\repos\Dictionary 2\obj\Debug\netcoreapp2.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\Dictionary 2\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Me\source\repos\Dictionary 2\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfo.cs
+C:\Users\Me\source\repos\Dictionary 2\obj\Debug\netcoreapp2.1\Dictionary.dll
+C:\Users\Me\source\repos\Dictionary 2\obj\Debug\netcoreapp2.1\Dictionary.pdb
+E:\Win - OLD\Users\Me\Music\Dictionary 2\bin\Debug\netcoreapp2.1\Dictionary.deps.json
+E:\Win - OLD\Users\Me\Music\Dictionary 2\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.json
+E:\Win - OLD\Users\Me\Music\Dictionary 2\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.dev.json
+E:\Win - OLD\Users\Me\Music\Dictionary 2\bin\Debug\netcoreapp2.1\Dictionary.dll
+E:\Win - OLD\Users\Me\Music\Dictionary 2\bin\Debug\netcoreapp2.1\Dictionary.pdb
+E:\Win - OLD\Users\Me\Music\Dictionary 2\obj\Debug\netcoreapp2.1\Dictionary.csproj.AssemblyReference.cache
+E:\Win - OLD\Users\Me\Music\Dictionary 2\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfoInputs.cache
+E:\Win - OLD\Users\Me\Music\Dictionary 2\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfo.cs
+E:\Win - OLD\Users\Me\Music\Dictionary 2\obj\Debug\netcoreapp2.1\Dictionary.csproj.CoreCompileInputs.cache
+E:\Win - OLD\Users\Me\Music\Dictionary 2\obj\Debug\netcoreapp2.1\Dictionary.dll
+E:\Win - OLD\Users\Me\Music\Dictionary 2\obj\Debug\netcoreapp2.1\Dictionary.pdb
+E:\Win - OLD\Users\Me\Music\Dictionary 2\obj\Debug\netcoreapp2.1\Dictionary.genruntimeconfig.cache
